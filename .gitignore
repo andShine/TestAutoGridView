@@ -1,0 +1,15 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+build
+/captures
+/gradle
+gradlew
+gradlew.bat
+null
+/.vscode
+/release
+*.lck
+*.log
